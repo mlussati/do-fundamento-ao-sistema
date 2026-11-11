@@ -7,7 +7,7 @@ Cada episódio pega um fundamento da computação (algoritmo, estrutura de dados
 | # | Episódio | Código |
 |---|---|---|
 | 0 | [Construí um Vector Store do Zero para Entender RAG de Verdade](https://mlussati.substack.com/p/construi-um-vector-store-do-zero) | (no post) |
-| 1 | Busca aproximada e por que o seu banco vetorial não compara com tudo | [`01-busca-aproximada/`](01-busca-aproximada/) |
+| 1 | [Busca aproximada e por que o seu banco vetorial não compara com tudo](https://mlussati.substack.com/p/do-fundamento-ao-sistema-1-busca) | [`01-busca-aproximada/`](01-busca-aproximada/) |
 
 ## Como rodar
 
